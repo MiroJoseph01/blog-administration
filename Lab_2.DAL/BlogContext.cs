@@ -1,10 +1,7 @@
-﻿using Lab_2.EF.Entities;
+﻿using Lab_2.DAL.Entities;
 using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
-namespace Lab_2.EF
+namespace Lab_2.DAL
 {
     public class BlogContext : DbContext
     {

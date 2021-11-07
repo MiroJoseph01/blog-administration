@@ -1,11 +1,7 @@
-﻿using Lab_2.EF.Entities;
-using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
+﻿using Lab_2.DAL.Entities;
 using System.Linq;
-using System.Text;
 
-namespace Lab_2.EF.Repository
+namespace Lab_2.DAL.Repository
 {
     public class TopicRepository : Repository<Topic>, ITopicRepository
     {

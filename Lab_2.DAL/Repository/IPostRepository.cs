@@ -1,9 +1,7 @@
-﻿using Lab_2.EF.Entities;
-using System;
+﻿using Lab_2.DAL.Entities;
 using System.Collections.Generic;
-using System.Text;
 
-namespace Lab_2.EF.Repository
+namespace Lab_2.DAL.Repository
 {
     public interface IPostRepository : IRepository<Post>
     {

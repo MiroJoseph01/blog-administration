@@ -1,12 +1,9 @@
-﻿using Lab_2.EF.Entities;
-using Lab_2.EF.Repository;
+﻿using Lab_2.DAL.Entities;
+using Lab_2.DAL.Repository;
 using System;
-using System.Collections.Generic;
-using System.ComponentModel;
 using System.Data;
 using System.Drawing;
 using System.Linq;
-using System.Text;
 using System.Windows.Forms;
 
 namespace Lab_2

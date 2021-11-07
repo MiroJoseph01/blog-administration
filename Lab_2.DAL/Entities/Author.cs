@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Lab_2.EF.Entities
+namespace Lab_2.DAL.Entities
 {
     public class Author
     {

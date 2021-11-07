@@ -1,5 +1,5 @@
-﻿using Lab_2.EF.Entities;
-using Lab_2.EF.Repository;
+﻿using Lab_2.DAL.Entities;
+using Lab_2.DAL.Repository;
 using System;
 using System.Linq;
 using System.Windows.Forms;
